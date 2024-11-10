@@ -1,4 +1,11 @@
 body{
+
 color: aliceblue;
 background-color: black;
+
+}
+
+header{
+    border: solid 2x rgb(42, 122, 228);
+
 }
