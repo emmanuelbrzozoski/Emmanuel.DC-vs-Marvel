@@ -3,6 +3,7 @@ body{
 color: aliceblue;
 background-color: black;
 margin: 0px;
+font-family: "Libre Baskerville", serif;
 
 }
 
@@ -21,7 +22,13 @@ display: flex;
 justify-content: center;
 
 }
-div {
-    margin-right: 20px;
-
+.chamada-texto {
+    margin-right: 5%;
+   
+}
+h1 {
+    font-size: 40px;
+}
+p {
+    font-size: 20px;
 }
